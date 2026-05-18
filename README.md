@@ -1,7 +1,7 @@
 # Projeto integrador: Ciência de dados [Grupo 29]
 
 ## *⚠️ AVISO*
-Por dificuldades técnicas o grupo acabou por centralizar todo o código offline em uma única conta antes de subir tudo para o GitHub.
+Por dificuldades técnicas o grupo acabou por centralizar todo o código offline em uma única conta antes de subir o projeto para o GitHub
 
 ## Integrantes
 - Carlos Matheus Lima Coelho
